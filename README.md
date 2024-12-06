@@ -2,7 +2,7 @@
 
 **[การเขียนเอกสารเชิงหลักการ (Concept Paper)](https://github.com/thai2net/EASY2RESEARCH/blob/main/Examples%20for%20Concept%20Paper/EX00.MD)**
 
-### ตัวอย่างการขึ้นโครงหลักการเอกสารเชิงหลักการ
+### ตัวอย่างการขึ้นโครงสำหรับการเขียนเอกสารเชิงหลักการ
 
 1. [การพัฒนาโมเดลปัญญาประดิษฐ์ (AI) สำหรับการทำนายพฤติกรรมผู้บริโภค เพื่อช่วยให้ธุรกิจค้าปลีกสามารถปรับกลยุทธ์การตลาดและเพิ่มประสิทธิภาพในการดำเนินธุรกิจ](https://github.com/thai2net/EASY2RESEARCH/blob/main/Examples%20for%20Concept%20Paper/EX01.MD)
 2. [การพัฒนาสื่อการเรียนรู้เสมือนจริงแบบโต้ตอบ (Interactive Virtual Reality) เพื่อเพิ่มประสิทธิภาพการเรียนรู้ในหลักสูตรออนไลน์](https://github.com/thai2net/EASY2RESEARCH/blob/main/Examples%20for%20Concept%20Paper/EX02.MD)
